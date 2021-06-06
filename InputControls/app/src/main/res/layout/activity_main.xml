@@ -12,10 +12,55 @@
         android:orientation="vertical"
         android:padding="13dp"
         android:gravity="center"
+<<<<<<< HEAD
         tools:context=".MainActivity">
 
         <TextView
             android:layout_width="match_parent"
+=======
+        android:text="Registration Form"
+        android:textSize="30sp" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/name"
+        android:hint="Enter Name"
+        android:layout_marginTop="15dp"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/email"
+        android:hint="Enter Email"
+        android:inputType="textEmailAddress"
+        android:layout_marginTop="15dp"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/pass"
+        android:hint="Enter Password"
+        android:inputType="textPassword"
+        android:layout_marginTop="15dp"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/number"
+        android:hint="Enter Number"
+        android:inputType="phone"
+        android:layout_marginTop="15dp"/>
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/sp"
+        android:layout_marginTop="15dp"/>
+    <RadioGroup
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="15dp"
+        android:id="@+id/rg">
+        <RadioButton
+            android:layout_width="wrap_content"
+>>>>>>> c8a9c0e0ca72c81029b5488b32e21e6bce6ebacd
             android:layout_height="wrap_content"
             android:fontFamily="@font/caesar_dressing"
             android:gravity="center"
