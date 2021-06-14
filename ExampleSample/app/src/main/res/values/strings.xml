@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ExampleSample</string>
+    <string name="head">Android</string>
+    <string name="shead">Introduction to Android</string>
+    <string name="thead">History of Android</string>
+    <string name="text">Android is a mobile operating system based on a modified version of the Linux kernel and other open source software, designed primarily for touchscreen mobile devices such as smartphones and tablets. Android is developed by a consortium of developers known as the Open Handset Alliance and commercially sponsored by Google. It was unveiled in November 2007, with the first commercial Android device, the HTC Dream, being launched in September 2008.<br>
+        It is free and open-source software; its source code is known as Android Open Source Project (AOSP), which is primarily licensed under the Apache License. However most Android devices ship with additional proprietary software pre-installed,[11] most notably Google Mobile Services (GMS)[12] which includes core apps such as Google Chrome, the digital distribution platform Google Play and associated Google Play Services development platform. About 70 percent of Android smartphones run Googles ecosystem;[13] competing Android ecosystems and forks include Fire OS (developed by Amazon) or LineageOS. However the "Android" name and logo are trademarks of Google which impose standards to restrict "uncertified" devices outside their ecosystem to use Android branding.</br>
+<br>This is the reference from https://developer.android.com/ </br>
+    <br>My mail id is salmacse.gist@gmail.com</br>
+    <br>My number is 9959488411</br>
+    </string>
+    </resources>
