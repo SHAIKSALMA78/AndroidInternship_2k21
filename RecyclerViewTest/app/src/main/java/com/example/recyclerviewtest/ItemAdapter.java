@@ -48,6 +48,7 @@ public class ItemAdapter extends RecyclerView.Adapter<ItemAdapter.MyViewHolder> 
         holder.iv.setImageResource(myImages[position]);
         holder.tv1.setText(myNames[position]);
         holder.tv2.setText(myPrices[position]);
+        
         /*holder.button.setOnClickListener(new ElegantNumberButton.OnClickListener() {
             @Override
             public void onClick(View view) {
