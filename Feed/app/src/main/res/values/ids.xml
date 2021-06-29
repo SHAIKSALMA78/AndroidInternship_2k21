@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="listview" type="id">listview</item>
+    <item name="donate" type="id">donate</item>
+    <item name="recieve" type="id">receive</item>
+</resources>

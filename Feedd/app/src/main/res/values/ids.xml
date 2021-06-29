@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etname" type="id">res</item>
+    <item name="etfoodname" type="id">res</item>
+    <item name="etquantity" type="id">res</item>
+    <item name="etnum" type="id">res</item>
+</resources>
